@@ -1,4 +1,4 @@
-# finlogic
+# FinLogic
 
 An **interactive financial education and analysis tool** designed to explain complex financial formulas through real-time visualization and dual-mode calculation.
 
